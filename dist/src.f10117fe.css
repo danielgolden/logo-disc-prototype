@@ -1,0 +1,14 @@
+body {
+  /* background-size: 1512px auto;
+  background-image: url("https://uploads.codesandbox.io/uploads/user/1ce9b363-732a-48c7-8c64-08d7065e23c1/1eNP-Captura+de+Pantalla+2022-10-24+a+la(s)+9.10.01+a.m..png"); */
+  background-color: #f6f9fc;
+}
+
+canvas {
+  position: absolute;
+  top: 105px;
+  right: 200px;
+}
+
+
+/*# sourceMappingURL=/src.f10117fe.css.map */
